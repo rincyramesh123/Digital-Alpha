@@ -1,0 +1,40 @@
+﻿1) Create a list with minimum 8 elements and print
+    
+a)  largest and second largest in the list.
+    
+b)  swap first and last element
+
+2) Create two lists and merge these list & sort the elements of resulting list.
+
+3)Find the union and intersection of two lists.
+
+4) Create a list and print
+    
+a)3rd and 6th element
+    
+b)First 5 elements
+    
+c)elements 7th to end 
+    
+d)change the 2ndand 5thelement by ‘x’ and ‘y’ respectively.
+    
+e)Delete 5thelement and print the list
+    
+f)Count the number of elements in the list
+
+5)Find the number of time a particular number occurs in a list and also print the largest even and odd number in the list
+
+6) Write a python program to create a list of tuples with the first element as the number and second element as 
+the square of the number
+    
+a)Sort the elements in ascending order
+
+7) Generate random numbers from 1-20 and append them to the list.
+
+8) Write a python program to compute a polynomial equation given that the coefficients of the polynomial are 
+sorted in a list (input a list and sort it before computing)
+
+9) Python Program to find all Numbers in a range which are Perfect Squares and Sum of all Digits in the Number is Less than 10
+
+10) Python Program to Find the Cumulative Sum of a List where the i’th Element is the Sum of the First i+1 Elements From The Original List
+
