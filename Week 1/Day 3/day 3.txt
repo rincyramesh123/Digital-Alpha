@@ -1,0 +1,16 @@
+1.Write a Python class to convert an integer to a roman numeral.
+2. Write a Python program to convert a roman numeral to an integer.
+3. Write a Python class to implement pow(x, n).
+4. Write a Python class to reverse a string word by word.
+
+Inheritance 
+1.	Write a python program to implement different types of inheritance with the ‘Animal’ class. 
+Polymorphism 
+1.	Write a python program to Implement polymorphism with the following
+a)	Find the area of triangle, rectangle, circle
+b)	Features of animals 
+Abstraction and encapsulation
+1.	Write a python program to implement abstraction and encapsulation in school management system. Restrict the user by their role,
+a)	 Principal must have access to all the details
+b)	 non-teaching staff – give access to their section only
+c)	Teaching staff – student details
