@@ -1,0 +1,14 @@
+Exception handling
+1.	Write a python program to handle the following exceptions
+a.	IO error
+b.	Value error
+c.	Import error
+d.	Arithmetic error
+e.	Overflow error
+f.	Zero division error
+g.	Floating point error
+h.	Name error
+i.	Index error
+
+
+
