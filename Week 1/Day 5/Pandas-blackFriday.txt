@@ -1,0 +1,24 @@
+Use blackFriday set from https://www.kaggle.com/mehdidag/black-friday#BlackFriday.csv
+
+
+
+1)Get the columns or features of  of the Dataset
+2)How many observations are there in the dataset
+3)What are the missing values ? How many for each category?
+4)How many unique values for UserId and Product Id
+5)How many males and females in the data set?
+6)Print a frequency chart for the age groups
+7)What is the distribution of marital status of people?
+8)Create 3 files for each of the city category
+9)Draw a frequency chart for the occupation
+10)What is the purchase value for males and females
+11)Add an additional column for country (Country is US)
+12)Show the head of the data frame
+13)Show the last part of the dataframe
+14)Get the details of  user 1000001
+15)Get the details of the 50th observation
+16)Create a small data frame with only user_id, age and purchase
+17)Print first 10 rows of the data frame
+18)Sort the data frame based on purchase.
+19)Show the summary stastics related to each of the age groups
+20)List all purchases lower than 100 and bigger than 10000
