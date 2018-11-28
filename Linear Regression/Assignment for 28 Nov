@@ -1,0 +1,13 @@
+Presentation on 29 Nov 9:00 AM
+
+a) Linear Regression with Boston housing data set
+
+1. Analyze the data
+2. Data transformation, data cleaning as applicable
+3. Data exploration - Visualization.
+4. Fit the model (use train -test split)
+5. Predict from train data set
+6. Calculate the accuracy
+7. What are the questions you have from this exercise.
+
+b) Reand discussion lecture notes from Ancdrew Ng on Linear Regression
