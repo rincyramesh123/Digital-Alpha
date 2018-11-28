@@ -8,6 +8,7 @@ a) Linear Regression with Boston housing data set
 4. Fit the model (use train -test split)
 5. Predict from train data set
 6. Calculate the accuracy
-7. What are the questions you have from this exercise.
+7. What are the most important features?
+8. What are the questions you have from this exercise.
 
 b) Reand discussion lecture notes from Ancdrew Ng on Linear Regression
