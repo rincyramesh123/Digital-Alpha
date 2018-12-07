@@ -1,1 +1,12 @@
 1. Data set is Test-Score-Dataset uploaded on Github
+2. Draw a histogram for overall score of the stidents
+3. Score 3 separate histograms for math, reading and writing scores.
+4. What is the summary statistics (mean, median, mode, standard deviation, Q1, Q2,Q3) for each gender
+5. What is the summary statistics (mean, median, mode, standard deviation, Q1, Q2,Q3) for each race
+6. Draw box plots for gender and race and analyze the findings
+7. How is the test preparation affecting the math score. Give a visual representation.
+8. How is the test preparation affecting the overall score. Give a visual representation.
+8. Generate a Linear Regression classifier to predict the oeverall score.
+9. Create two clusters and three clusters fron the data set. What is your analysis from clustering.
+
+Individually upload these in Github by Monday 9 AM.
