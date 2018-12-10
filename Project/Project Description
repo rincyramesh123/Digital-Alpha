@@ -1,0 +1,7 @@
+Using the movie data base, create a recommendation engine based on user preferences and viewing history. It should meet the following use cases.
+
+1. Add users
+2. Add movies
+3. At login time, create recommendations for existing and new users.
+
+Note : The recommendations should vary based on recent viewing activities irrespective of the initial user preferences.
