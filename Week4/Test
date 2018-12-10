@@ -1,0 +1,14 @@
+For the bike sharing dataset, create a Jupiter Notebook and upload in your GitHub with the following sections. Readme has more details about the dataset
+No clarifications will be offered during test
+
+1. Draw scatter plots for casual vs registered users
+2. Draw a histogram showing bike sharing data for various seasons
+3. Draw a histogram for various weather situations.
+4. What features affect the bike sharing trends? Why?
+5. Draw a bar chart for bike sharing data for each month.
+6. Draw a pie chart for #5.
+7. Draw a box plot for bike sharing data, What is your analysis of the box plot.
+8. What is the bike sharing data trend on holidays vs week days? Represent visually through graphs.
+9. What is  your analysis  of casual visitors vs registered users? 
+10. For #9, is there a trend for holidays vs week days
+
